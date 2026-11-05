@@ -151,15 +151,6 @@ These are set at the organization level.
 [github actions]: https://github.com/features/actions
 [gpg private key]: https://github.com/marketplace/actions/import-gpg#prerequisites
 
-/wenli75271/status/2117533294304923993
-/wenli75271/status/2116438940400164973
-/wenli75271/status/2112776257087893979
-/wenli75271/status/2110228368524472685
-/wenli75271/status/2052676033313476852
-/wenli75271/status/2048396815997997454
-/wenli75271/status/2048396815997997454
-/wenli75271/status/2052676033313476852
-/Miao_yoga/status/2117253007478059357
 
 ## Contributing
 
